@@ -1,3 +1,7 @@
 venv
 db.sqlite3
-./receitas/__pycache__
+pessoas/__pycache__
+pessoas/migrations/__pycache__
+receitas/migrations/__pycache__
+receitas/__pycache__
+
